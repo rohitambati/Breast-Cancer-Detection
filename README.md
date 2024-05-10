@@ -1,6 +1,6 @@
 # Breast-Cancer-Detection - Wisconsin Breast Cancer Dataset
 
-### Problem Statement:**
+### Problem Statement:
 Breast cancer is the most common cancer amongst women in the world. It accounts for 25% of all cancer cases, and affected over 2.1 Million people in 2015 alone. It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
 
 The key challenges against it’s detection is how to classify tumors into malignant (cancerous) or benign (non cancerous). A benign tumor has distinct, smooth, regular borders. A malignant tumor has irregular borders and grows faster than a benign tumor. A malignant tumor can also spread to other parts of your body. A benign tumor can become quite large, but it will not invade nearby tissue or spread to other parts of your body.
